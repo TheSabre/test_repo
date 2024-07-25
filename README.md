@@ -1,2 +1,2 @@
 # test_repo
-Test Repo for Git Demo
+Test Repo for Git Demo.
